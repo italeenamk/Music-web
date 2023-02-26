@@ -1,0 +1,55 @@
+
+.commint-background-content {
+    color: white;
+    background: #292d33;
+    padding: 50px 0;
+}
+.commint-circle-boll {}
+.commint-circle-boll p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    letter-spacing: 3px;
+    font-size: 14px;
+    color: black;
+    margin-top: 37px;
+}
+.commint-circle-boll p span {
+    text-decoration: underline;
+    text-decoration-color: #00000063;
+    cursor: pointer;
+}
+.commint-circle-boll span:after{
+    content: '\30FB';
+    font-size: 23rem;
+    line-height: 1px;
+    height: 33px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7px;
+    color: #ee4148;
+}
+.commint-heading-content {}
+.commint-heading-content h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    margin-top: 50px;
+    line-height: 58px;
+    letter-spacing: 1px;
+}
+.commint-heading-content button {
+    border: 2px solid white;
+    border-radius: 0;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    color: white;
+    padding: 11px 35px;
+    letter-spacing: 3px;
+    font-weight: 300;
+    margin-top: 30px;
+}
+.commint-heading-content button:hover {
+    background: white;
+    color: black;
+}

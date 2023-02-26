@@ -1,0 +1,62 @@
+
+.biography-background-content {
+    background-image: url("../imges/background.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 76px;
+}
+.container-fluid .row .col-md-7 {
+    padding-left: 0 !important;
+    padding-top: 0 !important;
+}
+.container-fluid .row .col-md-4 {
+    padding-top: 4rem !important;
+}
+.bio-card-content {
+    padding-top: 7rem !important;
+}
+.bio-card-content .card {
+    background: #f2f2f2;
+    border: none;
+    padding: 50px 35px;
+    border-radius: 1px;
+    margin-right: -81px;
+    z-index: 1;
+}
+.bio-card-content .card .bio-card-text-content {}
+.bio-card-content .card .bio-card-text-content h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 50px;
+}
+.bio-card-content .card .bio-card-text-content .bio-card-paragraph-content {
+    font-size: 16px;
+    color: #000000c4;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.bio-img-link {}
+.bio-img-link p {
+    padding: 0 !important;
+    color: #000000c4 !important;
+    font-weight: 400;
+    font-size: 16px;
+}
+.bio-img-link p span {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bio-card-content .card .bio-card-text-content button {
+    border: 2px solid rgba(0, 0, 0, 0.91);
+    border-radius: 0;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    padding: 11px 35px;
+    letter-spacing: 3px;
+    font-weight: 300;
+    margin-top: 11px;
+}
+.bio-card-content .card .bio-card-text-content button:hover {
+    background: rgba(0, 0, 0, 0.91);
+    color: white;
+}

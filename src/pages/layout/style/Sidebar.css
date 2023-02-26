@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100;1,200;1,300;1,400;1,500&display=swap');
+
+
+.sidebar-img-content {
+    padding: 15px 0;
+}
+.sidebar-text-content {
+    padding: 80px 0;
+}
+.sidebar-heanding-content {}
+.sidebar-heanding-content h1 {
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+}
+.sidebar-heanding-content p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 16px;
+    margin-bottom: 34px;
+}
+.sidebar-information-content {
+    margin-bottom: 20px;
+}
+.sidebar-information-content h4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+}
+.sidebar-information-content p {
+    font-size: 14px;
+    cursor: pointer;
+    color: #ee4148;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.sidebar-img-link {}
+.sidebar-img-link p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    letter-spacing: 3px;
+    font-size: 14px;
+    color: black;
+    margin-top: 37px;
+}
+.sidebar-img-link p span {
+    text-decoration: underline;
+    text-decoration-color: #00000063;
+    cursor: pointer;
+}
+.sidebar-circle-boll span:after{
+    content: '\30FB';
+    font-size: 23rem;
+    line-height: 1px;
+    height: 98px;
+    display: flex;
+    width: 54px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7px;
+    color: #ee4148;
+}

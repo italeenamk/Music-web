@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2c286b5-d3b7-4652-b023-837d9ce5b155" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/Biography.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/Commint.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/Event.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/Mobile_screen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/biography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/commint.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/event.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/layout/style/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LdLmKmJQSGwheNAI8r1kIpDVmY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/all-floders/my-new-react-project/music-web&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2c286b5-d3b7-4652-b023-837d9ce5b155" name="Changes" comment="" />
+      <created>1676196170986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676196170986</updated>
+      <workItem from="1676196172139" duration="54000" />
+      <workItem from="1677312447139" duration="7350000" />
+      <workItem from="1677328082224" duration="1371000" />
+      <workItem from="1677341661579" duration="1153000" />
+      <workItem from="1677412469303" duration="15817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

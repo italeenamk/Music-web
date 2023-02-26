@@ -1,0 +1,24 @@
+
+.footer-background-color-content {
+    background: #292d33;
+    padding: 55px 0;
+}
+.footer-text-content {}
+.footer-text-content h3 {
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+.footer-web-link {
+    margin-top: 90px;
+}
+.footer-web-link a {
+    font-size: 14px;
+    text-decoration: underline;
+    color: #83c5e1;
+}
+.footer-web-link span {
+    text-decoration: none !important;
+    color: white;
+    font-size: 14px;
+}

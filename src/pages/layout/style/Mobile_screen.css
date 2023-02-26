@@ -1,0 +1,33 @@
+
+@media only screen and (max-width: 768px){
+    .bio-card-content .card {
+        margin-right: 0 !important;
+    }
+    .about-img-content img {
+        margin-left: 0 !important;
+    }
+    .contact-link-content {
+        display: grid !important;
+    }
+    .contact-input-btn-content input {
+        width: 253px !important;
+    }
+    .contact-input-btn-content button {
+        padding: 9px 105px !important;
+        margin-left: 0px !important;
+        margin-top: 11px !important;
+    }
+    .container-fluid .row .col-md-7 {
+        padding: 0 !important;
+    }
+    .bio-img-content {
+        padding: 10px !important;
+    }
+    body {
+        overflow-x: hidden !important;
+    }
+    .contact-link-content a {
+        margin: 0 73px !important;
+    }
+
+}

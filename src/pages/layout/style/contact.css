@@ -1,0 +1,56 @@
+
+
+.contact-background-content {
+    color: white;
+    background: #ee4148;
+    padding: 100px 0;
+}
+.contact-heading-content {}
+.contact-heading-content h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    margin-top: 50px;
+    line-height: 58px;
+    letter-spacing: 1px;
+}
+.contact-link-content {
+    margin-top: 30px;
+}
+.contact-link-content a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+    margin: 0 15px;
+    /*text-decoration-thickness: 1px;*/
+    padding-bottom: 3px;
+    border-bottom: 1px solid #ffffff;
+    line-height: 48px;
+}
+.contact-input-btn-content {
+    margin-top: 25px;
+}
+.contact-input-btn-content input {
+    border: none;
+    outline: none;
+    color: #0000009c;
+    height: 45px;
+    padding-left: 18px !important;
+    width: 25%;
+    font-size: 16px;
+}
+.contact-input-btn-content input::placeholder {
+    color: #0000009c;
+}
+.contact-input-btn-content button {
+    color: white;
+    border-radius: 0;
+    border: 2px solid white;
+    padding: 9px 20px;
+    margin-bottom: 6px;
+    margin-left: 11px;
+}
+.contact-input-btn-content button:hover {
+    background: white;
+}
